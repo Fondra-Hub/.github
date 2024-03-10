@@ -8,7 +8,7 @@ Fondra is a versatile Roblox script hub that enhances gameplay by offering power
 
 2. **Free of Charge**: Unlike many alternatives, Fondra is completely free, ensuring everyone can enjoy its advantages.
 
-3. **Enhanced Performance**: Fondra's seamless integration with the KRNL executor ensures minimal FPS drops, resulting in smoother gameplay.
+3. **Enhanced Performance**: Fondra's seamless integration with the RO-EXEC executor ensures minimal FPS drops, resulting in smoother gameplay.
 
 4. **Community-Driven**: Fondra's development is fueled by a passionate community, with the owner personally covering hosting costs.
 
