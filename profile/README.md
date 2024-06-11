@@ -1,4 +1,4 @@
-![Fondra](https://github.com/Fondra-Hub/.github/blob/2b583055d6894f51c548327f1f7c07b477ac5f63/profile/Thumbnail.png)
+![Fondra](https://github.com/Fondra-Hub/.github/assets/75094867/d36ef38b-802e-4089-be5a-91ea2a4f8d13)
 
 ## What is Fondra?
 Fondra is a versatile Roblox script hub that enhances gameplay by offering powerful features and advantages, all for free.
