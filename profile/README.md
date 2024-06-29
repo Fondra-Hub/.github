@@ -1,4 +1,4 @@
-![Fondra](https://github.com/Fondra-Hub/.github/assets/75094867/d36ef38b-802e-4089-be5a-91ea2a4f8d13)
+![Fondra](https://github.com/Fondra-Hub/.github/assets/75094867/ef0438a2-a1b5-4e65-8910-404883f5cde0)
 
 ## What is Fondra?
 Fondra is a versatile Roblox script hub that enhances gameplay by offering powerful features and advantages, all for free.
@@ -8,7 +8,7 @@ Fondra is a versatile Roblox script hub that enhances gameplay by offering power
 
 2. **Free of Charge**: Unlike many alternatives, Fondra is completely free, ensuring everyone can enjoy its advantages.
 
-3. **Enhanced Performance**: Fondra's seamless integration with the RO-EXEC executor ensures minimal FPS drops, resulting in smoother gameplay.
+3. **Enhanced Performance**: Fondra's seamless integration with an executor ensures minimal FPS drops, resulting in smoother gameplay.
 
 4. **Community-Driven**: Fondra's development is fueled by a passionate community, with the owner personally covering hosting costs.
 
