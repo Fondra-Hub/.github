@@ -15,5 +15,6 @@ Fondra is a versatile Roblox script hub that enhances gameplay by offering power
 5. **Fair and Enjoyable**: By eliminating the need for paid cheats, Fondra promotes fair gameplay and a more enjoyable Roblox experience.
    
 &nbsp;<div align="center">
-[![KOFI](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W010OINI)
+[![KOFI](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/W7W010OINI) [![PAYPAL](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white
+)](https://paypal.me/HonestlyWinning) 
 </div>
