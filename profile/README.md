@@ -13,3 +13,5 @@ Fondra is a versatile Roblox script hub that enhances gameplay by offering power
 4. **Community-Driven**: Fondra's development is fueled by a passionate community, with the owner personally covering hosting costs.
 
 5. **Fair and Enjoyable**: By eliminating the need for paid cheats, Fondra promotes fair gameplay and a more enjoyable Roblox experience.
+
+[![KOFI](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W010OINI)
