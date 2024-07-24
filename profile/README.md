@@ -16,7 +16,7 @@ See Fondra in action by watching our previews:
 Join our community to stay updated on the release and be among the first to access Fondra
 - **Website**: [https://fondra.club](https://fondra.club)
 - **Discord**: [https://discord.gg/qVJJu5TPUW](https://discord.gg/qVJJu5TPUW)
-- 
+
 </br>
 </br>
 
