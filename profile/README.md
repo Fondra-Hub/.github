@@ -17,10 +17,12 @@ See Fondra in action by watching our previews:
 - [Fondra - RAGEBOT [Criminality]](https://streamable.com/dmr6iw)
 - [Fondra - RPG CONTROL [Criminality]](https://streamable.com/bl5k1v)
 
+</br>
+
 ## Authors
 - **[Incognito](https://github.com/lncoognito)** - Utility, Backend.
 - **[Tryptamine](https://github.com/NougatBitz)** - Backend.
-- Extra Credits
+
   * **[Violin](https://github.com/violin-suzutsuki)** - UI Library.
   * **[xheptc](https://github.com/xheptc)** - Message Box Library.
 
