@@ -23,9 +23,6 @@ See Fondra in action by watching our previews:
 - **[Incognito](https://github.com/lncoognito)** - Utility, Backend.
 - **[Tryptamine](https://github.com/NougatBitz)** - Backend.
 
-  * **[Violin](https://github.com/violin-suzutsuki)** - UI Library.
-  * **[xheptc](https://github.com/xheptc)** - Message Box Library.
-
 </br>
 </br>
 
