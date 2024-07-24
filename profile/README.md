@@ -1,23 +1,24 @@
-![Fondra](https://github.com/user-attachments/assets/81e0ead1-bbbc-4a37-9357-eaba9fa81229)
+# What is Fondra?
+**Fondra**, the ultimate utility for Criminality, Combat Warriors and much more. We are excited to present a tool that stands out with unparalleled power and performance.
 
-## What is Fondra?
-Fondra is a versatile Roblox script hub that enhances gameplay by offering powerful features and advantages, all for free.
+## Why Choose Fondra?
+- **Exceptional Performance**: Our script is meticulously designed to offer superior capabilities, surpassing even the most premium options.
+- **No Cost**: Enjoy top-tier performance and features entirely free of charge.
 
-</br>
+## Previews
+See Fondra in action by watching our previews:
+- [Preview 1](https://streamable.com/dmr6iw)
+- [Preview 2](https://streamable.com/bl5k1v)
+- [Preview 3](https://streamable.com/zergf9)
 
-## Why use Fondra?
-1. **Powerful Features**: Fondra provides access to a variety of powerful features, giving you an edge in popular Roblox games.
+## Get Involved
+Join our community to stay updated on the release and be among the first to access Fondra
+- **Website**: [https://fondra.club](https://fondra.club)
+- **Discord**: [https://discord.gg/qVJJu5TPUW](https://discord.gg/qVJJu5TPUW)
 
-2. **Free of Charge**: Unlike many alternatives, Fondra is completely free, ensuring everyone can enjoy its advantages.
+**The Fondra Team**  
+*Fondra, Only the Best.*
 
-3. **Enhanced Performance**: Fondra's seamless integration with an executor ensures minimal FPS drops, resulting in smoother gameplay.
-
-4. **Community-Driven**: Fondra's development is fueled by a passionate community, with the owner personally covering hosting costs.
-
-5. **Fair and Enjoyable**: By eliminating the need for paid cheats, Fondra promotes fair gameplay and a more enjoyable Roblox experience.
-   
-&nbsp;<div align="center">
-[![DISCORD](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
-)](https://discord.gg/qVJJu5TPUW)</br>[![KOFI](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/W7W010OINI) [![PAYPAL](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white
-)](https://paypal.me/HonestlyWinning)
+<div align="center">
+[![DISCORD](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/qVJJu5TPUW)</br>[![KOFI](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/W7W010OINI) [![PAYPAL](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/HonestlyWinning)
 </div>
