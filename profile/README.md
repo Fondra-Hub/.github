@@ -6,7 +6,7 @@
 </br>
 
 ## Why Choose Fondra?
-- **Exceptional Performance**: Our script is meticulously designed to offer superior capabilities, surpassing even the most premium options.
+- **Exceptional Performance**: Our script is designed to offer superior capabilities, surpassing even the most premium options.
 - **No Cost**: Enjoy top-tier performance and features entirely free of charge.
 
 ## Previews
