@@ -20,7 +20,7 @@ See Fondra in action by watching our previews:
 - [Fondra - RPG CONTROL [Criminality]](https://streamable.com/bl5k1v)
 
 ## Authors
-- **[Incognito](https://github.com/lncoognito)** - Utility, Backend.
+- **[Incognito](https://github.com/Incognito-Tabs)** - Utility, Backend.
 - **[Tryptamine](https://github.com/NougatBitz)** - Backend.
 
 </br>
