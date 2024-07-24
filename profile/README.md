@@ -9,14 +9,14 @@
 
 ## Previews
 See Fondra in action by watching our previews:
-- [Preview 1](https://streamable.com/dmr6iw)
-- [Preview 2](https://streamable.com/bl5k1v)
-- [Preview 3](https://streamable.com/zergf9)
+- [Fondra - RAGEBOT [Criminality]](https://streamable.com/dmr6iw)
+- [Fondra - RPG CONTROL [Criminality]](https://streamable.com/bl5k1v)
 
 ## Get Involved
 Join our community to stay updated on the release and be among the first to access Fondra
 - **Website**: [https://fondra.club](https://fondra.club)
 - **Discord**: [https://discord.gg/qVJJu5TPUW](https://discord.gg/qVJJu5TPUW)
+
 
 **The Fondra Team**  
 *Fondra, Only the Best.*
