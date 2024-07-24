@@ -1,6 +1,6 @@
 &nbsp;<div align="center">
   ![Banner](https://github.com/user-attachments/assets/e73ef367-845c-4ef8-81df-cf677c0b1465) 
-  [![KOFI](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/W7W010OINI)
+  [![KOFI](https://img.shields.io/badge/Ko--fi-5865F2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/W7W010OINI)
   [![DISCORD](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/qVJJu5TPUW)
   [![PAYPAL](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/HonestlyWinning)
 </div>
