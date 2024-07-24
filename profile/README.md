@@ -1,3 +1,5 @@
+![Banner](https://github.com/user-attachments/assets/e73ef367-845c-4ef8-81df-cf677c0b1465)
+
 # What is Fondra?
 **Fondra**, the ultimate utility for Criminality, Combat Warriors and much more. We are excited to present a tool that stands out with unparalleled power and performance.
 
@@ -20,5 +22,7 @@ Join our community to stay updated on the release and be among the first to acce
 *Fondra, Only the Best.*
 
 <div align="center">
-[![DISCORD](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/qVJJu5TPUW)</br>[![KOFI](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/W7W010OINI) [![PAYPAL](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/HonestlyWinning)
+[![DISCORD](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
+)](https://discord.gg/qVJJu5TPUW)</br>[![KOFI](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/W7W010OINI) [![PAYPAL](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white
+)](https://paypal.me/HonestlyWinning)
 </div>
