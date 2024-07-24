@@ -4,26 +4,20 @@
 **Fondra** is the ultimate utility for Criminality, Combat Warriors, and more. We are thrilled to offer a tool that excels with unparalleled power and performance. Designed to give you the edge in every situation, Fondra provides superior capabilities that surpass even premium options all for free. Experience the next level of power with Fondra.
 
 </br>
-</br>
 
 ## Why Choose Fondra?
 - **Exceptional Performance**: Our script is meticulously designed to offer superior capabilities, surpassing even the most premium options.
 - **No Cost**: Enjoy top-tier performance and features entirely free of charge.
-
-</br>
 
 ## Previews
 See Fondra in action by watching our previews:
 - [Fondra - RAGEBOT [Criminality]](https://streamable.com/dmr6iw)
 - [Fondra - RPG CONTROL [Criminality]](https://streamable.com/bl5k1v)
 
-</br>
-
 ## Authors
 - **[Incognito](https://github.com/lncoognito)** - Utility, Backend.
 - **[Tryptamine](https://github.com/NougatBitz)** - Backend.
 
-</br>
 </br>
 
 **The Fondra Team**  
