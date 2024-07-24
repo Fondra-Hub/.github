@@ -22,7 +22,7 @@ See Fondra in action by watching our previews:
 *Fondra, Only the Best.*
 
 &nbsp;<div align="center">
-[![DISCORD](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
-)](https://discord.gg/qVJJu5TPUW)</br>[![KOFI](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/W7W010OINI) [![PAYPAL](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white
-)](https://paypal.me/HonestlyWinning)
+  [![DISCORD](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/qVJJu5TPUW)</br>
+  [![KOFI](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/W7W010OINI)
+  [![PAYPAL](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/HonestlyWinning)
 </div>
