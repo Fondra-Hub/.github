@@ -1,14 +1,8 @@
 ![Banner](https://github.com/user-attachments/assets/e73ef367-845c-4ef8-81df-cf677c0b1465)
 &nbsp;<div align="center">
-  <a href="https://discord.gg/qVJJu5TPUW">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" width="200">
-  </a>
-  <a href="https://ko-fi.com/W7W010OINI">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" width="200">
-  </a>
-  <a href="https://paypal.me/HonestlyWinning">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" width="200">
-  </a>
+  [![KOFI](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/W7W010OINI)
+  [![DISCORD](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/qVJJu5TPUW)
+  [![PAYPAL](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/HonestlyWinning)
 </div>
 
 # What is Fondra?
