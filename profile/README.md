@@ -1,6 +1,6 @@
 &nbsp;<div align="center">
   ![Banner](https://github.com/user-attachments/assets/4655e5c0-a71b-4bda-bb4d-b604623f82d5)
-  [![CASHAPP](https://img.shields.io/badge/Cash%20App-00C244?style=for-the-badge&logo=ko-fi&logoColor=white)](https://cash.app/$SmellyDog87)
+  [![CASHAPP](https://img.shields.io/badge/Cash%20App-00C244?style=for-the-badge&logo=cashapp&logoColor=white)](https://cash.app/$SmellyDog87)
   [![DISCORD](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/qVJJu5TPUW)
   [![PAYPAL](https://img.shields.io/badge/PayPal-009cde?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/HonestlyWinning)
 </div>
